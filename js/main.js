@@ -55,7 +55,7 @@
 		});
 		function parallaxScroll(){
 			var scrolled = $(window).scrollTop();
-			$('#parallax-granola').css('top',(0-(scrolled*.5))+'px');
+			$('#parallax-granola').css('top',(0-(scrolled*.25))+'px');
 		}
 	});
 
