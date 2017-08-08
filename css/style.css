@@ -3226,27 +3226,6 @@ select {
   top: 4840px;
   left: 16%;
 }
-#granola-4 {
-  background: url("../img/granola/granola-4.png") no-repeat 1% 2%;
-}
-#granola-5 {
-  background: url("../img/granola/granola-5.png") no-repeat 97% 102%;
-}
-#granola-6 {
-  background-image: url("../img/granola/granola-6.png");
-  background-repeat: no-repeat;
-  background-position: 0 -69%;
-}
-#granola-7 {
-  background-image: url("../img/granola/granola-7.png");
-  background-repeat: no-repeat;
-  background-position: 100% 42%;
-}
-#granola-8 {
-  background-image: url("../img/granola/granola-8.png");
-  background-repeat: no-repeat;
-  background-position: 19% 12%;
-}
 .ba-logo__img {
   display: block;
   padding-top: 20px;
@@ -3340,7 +3319,7 @@ select {
   display: block;
   font-family: 'Roboto', Arial, sans-serif;
   text-decoration: none;
-  font-size: 27px;
+  font-size: 15px;
   text-transform: uppercase;
   color: #FFF;
   padding: 0;
